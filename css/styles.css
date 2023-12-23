@@ -59,7 +59,7 @@ p {
 .second,
 .third {
     padding: 5rem;
-    height: 60rem;
+    height: 55rem;
 }
 
 .first {
@@ -97,7 +97,7 @@ p {
     padding: 0 2.5rem;
     font-size: 1.5rem;
     cursor: pointer;
-    margin-top: 6rem;
+    margin-top: 5rem;
     border: solid 2px var(--very-light-gray);
     transition: .5s;
 }
